@@ -5,6 +5,8 @@ A study companion for the Transformer paper by Vaswani et al. (2017), [arXiv:170
 1. **`Attention_Is_All_You_Need_Explained.xlsx`**: a 21-sheet Excel course. Every calculation is a live formula.
 2. **`python/`**: the same examples in plain Python, one script per sheet, standard library only.
 
+**New to neural networks?** Start with the prerequisite course in [`prerequisites/neural_network_basics/`](prerequisites/neural_network_basics/), which covers vectors, neurons, linear layers, activation functions and softmax, with end-to-end worked examples and matching Python.
+
 ## The Excel course
 
 Open the workbook and start with **00 Start Here**, which links to every sheet. Each concept gets its own sheet with the same structure:
