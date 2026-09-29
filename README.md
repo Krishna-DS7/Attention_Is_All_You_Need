@@ -5,7 +5,10 @@ A study companion for the Transformer paper by Vaswani et al. (2017), [arXiv:170
 1. **`Attention_Is_All_You_Need_Explained.xlsx`**: a 21-sheet Excel course. Every calculation is a live formula.
 2. **`python/`**: the same examples in plain Python, one script per sheet, standard library only.
 
-**New to neural networks?** Start with the prerequisite course in [`prerequisites/neural_network_basics/`](prerequisites/neural_network_basics/), which covers vectors, neurons, linear layers, activation functions and softmax, with end-to-end worked examples and matching Python.
+**New to neural networks?** Work through the two prerequisite courses first. Each is an Excel workbook with matching Python:
+
+1. [`prerequisites/neural_network_basics/`](prerequisites/neural_network_basics/): the forward pass. Covers vectors, neurons, linear layers, activation functions and softmax, with end-to-end worked examples.
+2. [`prerequisites/backpropagation/`](prerequisites/backpropagation/): how networks learn. Covers loss, derivatives, gradient descent, the chain rule, backpropagation and optimizers, with a full training step and a training loop worked by hand.
 
 ## The Excel course
 
